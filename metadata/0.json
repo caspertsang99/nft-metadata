@@ -1,0 +1,12 @@
+{
+  "name": "NFT #0",
+  "description": "NFT #0",
+  "image": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/0.png",
+  "animation_url": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/0.mp4",
+  "attributes": [
+    { "trait_type": "Token ID", "value": 0, "display_type": "number" },
+    { "trait_type": "Total Supply", "value": 6, "display_type": "number" },
+    { "trait_type": "Animation Format", "value": "MP4" },
+    { "trait_type": "Collection", "value": "NFT Video" }
+  ]
+}

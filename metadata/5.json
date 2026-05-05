@@ -1,0 +1,12 @@
+{
+  "name": "NFT #5",
+  "description": "NFT #5",
+  "image": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/5.png",
+  "animation_url": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/5.webm",
+  "attributes": [
+    { "trait_type": "Token ID", "value": 5, "display_type": "number" },
+    { "trait_type": "Total Supply", "value": 6, "display_type": "number" },
+    { "trait_type": "Animation Format", "value": "WebM" },
+    { "trait_type": "Collection", "value": "NFT Video" }
+  ]
+}

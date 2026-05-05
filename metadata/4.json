@@ -1,0 +1,12 @@
+{
+  "name": "NFT #4",
+  "description": "NFT #4",
+  "image": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/4.png",
+  "animation_url": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/4.webm",
+  "attributes": [
+    { "trait_type": "Token ID", "value": 4, "display_type": "number" },
+    { "trait_type": "Total Supply", "value": 6, "display_type": "number" },
+    { "trait_type": "Animation Format", "value": "WebM" },
+    { "trait_type": "Collection", "value": "NFT Video" }
+  ]
+}
