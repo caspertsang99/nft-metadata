@@ -1,7 +1,7 @@
 {
   "name": "NFT #3",
   "description": "NFT #3",
-  "image": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/3.png",
+  "image": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/0-general.png",
   "animation_url": "https://raw.githubusercontent.com/caspertsang99/nft-metadata/main/assets/3.webm",
   "attributes": [
     { "trait_type": "Token ID", "value": 3, "display_type": "number" },
